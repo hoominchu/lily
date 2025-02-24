@@ -2,7 +2,7 @@
 
 # Lily Screenshot Renamer
 
-[![Static Badge](https://img.shields.io/badge/Download_App-blue)](https://raw.githubusercontent.com/hoominchu/lily/main/lily-1.0.0-arm64.dmg)
+[![Static Badge](https://img.shields.io/badge/Download_App-blue)](https://raw.githubusercontent.com/hoominchu/lily/main/release/lily-1.0.0-arm64.dmg)
 
 A simple utility tool that automatically renames your screenshots using AI to give them meaningful, descriptive names.
 
@@ -22,7 +22,7 @@ After:
 
 ## Installation
 
-1. [Download the latest app](https://raw.githubusercontent.com/hoominchu/lily/main/lily-1.0.0-arm64.dmg)
+1. [Download the latest app](https://raw.githubusercontent.com/hoominchu/lily/main/release/lily-1.0.0-arm64.dmg)
 2. Install and launch the app
 3. Click the tray icon and select "Settings"
 4. Enter your OpenAI API key
